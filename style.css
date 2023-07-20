@@ -1,0 +1,14 @@
+section {
+    display: flex;
+    flex-direction: row;
+    margin: 0;
+    padding: 20px;
+}
+
+p{
+    color: green;
+}
+
+p{
+    color: red;
+}
